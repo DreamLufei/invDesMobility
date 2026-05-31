@@ -1,0 +1,517 @@
+material_id,formula_pretty,source_collection,material_status,bucket,channel_quality,cif_path
+2dm-1003,BiI3,Vertical_NM_Sample_50_v3,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-1003__BiI3.cif
+2dm-1004,BN,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-1004__BN.cif
+2dm-1008,GeP2,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-1008__GeP2.cif
+2dm-1013,GaBr,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-1013__GaBr.cif
+2dm-1029,AlN,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-1029__AlN.cif
+2dm-1033,GaI,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1033__GaI.cif
+2dm-104,AlCl,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-104__AlCl.cif
+2dm-1044,InI3,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1044__InI3.cif
+2dm-1079,GaI3,Vertical_NM_Sample_50_v3,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1079__GaI3.cif
+2dm-1082,BBr,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1082__BBr.cif
+2dm-1094,AsI3,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1094__AsI3.cif
+2dm-1099,AlCl,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1099__AlCl.cif
+2dm-11,SrO2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-11__SrO2.cif
+2dm-1106,Ta2O5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-1106__Ta2O5.cif
+2dm-1119,PI3,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1119__PI3.cif
+2dm-1120,CO,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=failed;hole_y=failed,材料/high-quality/2dm-1120__CO.cif
+2dm-1124,CdF2,Vertical_NM_Sample_50_v4,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1124__CdF2.cif
+2dm-1127,BiCl3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-1127__BiCl3.cif
+2dm-1135,BiBr3,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-1135__BiBr3.cif
+2dm-1141,GaN,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-1141__GaN.cif
+2dm-1157,InBr3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-1157__InBr3.cif
+2dm-116,InI,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-116__InI.cif
+2dm-117,SiSe,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-117__SiSe.cif
+2dm-1183,GaI,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1183__GaI.cif
+2dm-1184,AsBr3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-1184__AsBr3.cif
+2dm-1186,InI,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-1186__InI.cif
+2dm-1189,ScCl3,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=weak,材料/high-quality/2dm-1189__ScCl3.cif
+2dm-1195,BCl,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-1195__BCl.cif
+2dm-1207,CS,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=caution;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-1207__CS.cif
+2dm-1226,InI,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1226__InI.cif
+2dm-1234,AlI3,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1234__AlI3.cif
+2dm-125,TbBr3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-125__TbBr3.cif
+2dm-1258,BI3,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1258__BI3.cif
+2dm-13,SnCl4,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-13__SnCl4.cif
+2dm-136,GeO,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-136__GeO.cif
+2dm-138,CdF2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-138__CdF2.cif
+2dm-1416,TlCl,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-1416__TlCl.cif
+2dm-1425,HgBr2,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-1425__HgBr2.cif
+2dm-1453,SrCl2,Vertical_NM_Sample_50_v4,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1453__SrCl2.cif
+2dm-1468,TlCl,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-1468__TlCl.cif
+2dm-1469,SbCl3,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1469__SbCl3.cif
+2dm-1475,TlCl3,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1475__TlCl3.cif
+2dm-150,PbSe,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=caution;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-150__PbSe.cif
+2dm-1506,TlAs5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-1506__TlAs5.cif
+2dm-1539,BiF3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-1539__BiF3.cif
+2dm-1540,AlF3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=caution;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-1540__AlF3.cif
+2dm-1541,BF,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1541__BF.cif
+2dm-1546,InF,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-1546__InF.cif
+2dm-1551,CdI2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1551__CdI2.cif
+2dm-1558,GaF,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-1558__GaF.cif
+2dm-1572,HgCl2,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1572__HgCl2.cif
+2dm-1587,MgI2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1587__MgI2.cif
+2dm-1588,HgCl2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1588__HgCl2.cif
+2dm-1589,TlBr,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-1589__TlBr.cif
+2dm-1595,Ga4Se3,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-1595__Ga4Se3.cif
+2dm-1598,TlBr,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1598__TlBr.cif
+2dm-1610,AsF3,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-1610__AsF3.cif
+2dm-1617,CaCl2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1617__CaCl2.cif
+2dm-1625,GaP5,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1625__GaP5.cif
+2dm-1636,InF3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-1636__InF3.cif
+2dm-165,ZnBr2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-165__ZnBr2.cif
+2dm-1650,PF3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-1650__PF3.cif
+2dm-167,Br3N,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-167__Br3N.cif
+2dm-1671,YI3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=caution,材料/high-quality/2dm-1671__YI3.cif
+2dm-1676,In4S3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=weak,材料/high-quality/2dm-1676__In4S3.cif
+2dm-1679,TlI,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1679__TlI.cif
+2dm-1681,BeCl2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-1681__BeCl2.cif
+2dm-1687,GaF,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-1687__GaF.cif
+2dm-1699,NF3,Vertical_NM_Sample_other_v5,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1699__NF3.cif
+2dm-1712,TlCl,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-1712__TlCl.cif
+2dm-1719,MgBr2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-1719__MgBr2.cif
+2dm-1721,SbBr3,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1721__SbBr3.cif
+2dm-1723,GaF3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=failed;hole_y=failed,材料/high-quality/2dm-1723__GaF3.cif
+2dm-1724,BaCl2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-1724__BaCl2.cif
+2dm-1751,BF3,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=caution;hole_x=caution;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-1751__BF3.cif
+2dm-1763,SnTe,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-1763__SnTe.cif
+2dm-1765,ScI3,Vertical_NM_Sample_other_v5,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-1765__ScI3.cif
+2dm-190,ScBr3,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-190__ScBr3.cif
+2dm-196,AlI,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-196__AlI.cif
+2dm-202,AlBr,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-202__AlBr.cif
+2dm-2024,ZrCl4,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2024__ZrCl4.cif
+2dm-2035,BaF2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-2035__BaF2.cif
+2dm-2042,BaBr2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2042__BaBr2.cif
+2dm-2046,CaF2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2046__CaF2.cif
+2dm-2106,NbF5,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-2106__NbF5.cif
+2dm-2132,AlAs,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2132__AlAs.cif
+2dm-2156,CdSe,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-2156__CdSe.cif
+2dm-2157,N2O3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-2157__N2O3.cif
+2dm-2177,CaBr2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2177__CaBr2.cif
+2dm-218,CdCl2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-218__CdCl2.cif
+2dm-2203,ZnS,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2203__ZnS.cif
+2dm-2204,SrBr2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2204__SrBr2.cif
+2dm-2216,CaI2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-2216__CaI2.cif
+2dm-2221,PbSe,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2221__PbSe.cif
+2dm-2280,PbS,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=weak,材料/high-quality/2dm-2280__PbS.cif
+2dm-2287,BeF2,Vertical_NM_Sample_50_v4,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2287__BeF2.cif
+2dm-2291,HfCl4,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-2291__HfCl4.cif
+2dm-2298,HfF4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-2298__HfF4.cif
+2dm-2317,CaCl2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2317__CaCl2.cif
+2dm-2392,CdS,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-2392__CdS.cif
+2dm-2395,As2O3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=caution;hole_y=caution,材料/high-quality/2dm-2395__As2O3.cif
+2dm-24,CdBr2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-24__CdBr2.cif
+2dm-2405,BaCl2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2405__BaCl2.cif
+2dm-2426,TiF4,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-2426__TiF4.cif
+2dm-2429,CdTe,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2429__CdTe.cif
+2dm-2440,HgS,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-2440__HgS.cif
+2dm-2441,SrCl2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2441__SrCl2.cif
+2dm-2454,Bi2O3,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-2454__Bi2O3.cif
+2dm-2464,P2O3,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-2464__P2O3.cif
+2dm-2504,Bi2O3,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-2504__Bi2O3.cif
+2dm-2505,SrF2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2505__SrF2.cif
+2dm-2517,As2O3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-2517__As2O3.cif
+2dm-2538,BeBr2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-2538__BeBr2.cif
+2dm-2547,HfBr4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-2547__HfBr4.cif
+2dm-2571,SrI2,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-2571__SrI2.cif
+2dm-2582,GaN,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2582__GaN.cif
+2dm-2584,NbF5,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2584__NbF5.cif
+2dm-2590,AlN,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-2590__AlN.cif
+2dm-2591,MgBr2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-2591__MgBr2.cif
+2dm-2629,MgI2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-2629__MgI2.cif
+2dm-265,CaBr2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-265__CaBr2.cif
+2dm-2690,BeCl2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-2690__BeCl2.cif
+2dm-279,SiS,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-279__SiS.cif
+2dm-291,GaCl,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-291__GaCl.cif
+2dm-293,PBr3,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=failed;hole_y=failed,材料/not retained/2dm-293__PBr3.cif
+2dm-2942,AlBr,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-2942__AlBr.cif
+2dm-2954,BCl,Vertical_NM_Sample_other_v5,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2954__BCl.cif
+2dm-2959,AlF,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-2959__AlF.cif
+2dm-2973,AlCl,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-2973__AlCl.cif
+2dm-2979,BBr,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2979__BBr.cif
+2dm-2984,BF,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-2984__BF.cif
+2dm-3034,HfTaNO3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=caution;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3034__HfTaNO3.cif
+2dm-3045,PbS,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3045__PbS.cif
+2dm-3071,LiH2N,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3071__LiH2N.cif
+2dm-3073,PbSe,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3073__PbSe.cif
+2dm-3079,CN2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3079__CN2.cif
+2dm-308,As2O5,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=weak,材料/high-quality/2dm-308__As2O5.cif
+2dm-3107,Cu2WSe4,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3107__Cu2WSe4.cif
+2dm-3142,ScF3,Vertical_NM_Sample_50_2_v7,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-3142__ScF3.cif
+2dm-3164,TeO2,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3164__TeO2.cif
+2dm-3176,TePb,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3176__TePb.cif
+2dm-321,NdF3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-321__NdF3.cif
+2dm-3210,PbS,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-3210__PbS.cif
+2dm-3215,NaI,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3215__NaI.cif
+2dm-3216,HoSI,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3216__HoSI.cif
+2dm-326,InBr,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-326__InBr.cif
+2dm-3278,PbS,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3278__PbS.cif
+2dm-329,BBr,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-329__BBr.cif
+2dm-3311,HgSeO4,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3311__HgSeO4.cif
+2dm-3335,Na2ZnS2,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3335__Na2ZnS2.cif
+2dm-3338,SnS,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3338__SnS.cif
+2dm-3352,GeS2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3352__GeS2.cif
+2dm-336,SbO2,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-336__SbO2.cif
+2dm-3383,UTl2O4,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3383__UTl2O4.cif
+2dm-3393,AgClO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3393__AgClO4.cif
+2dm-3406,BiBrO,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3406__BiBrO.cif
+2dm-3408,LaBrO,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3408__LaBrO.cif
+2dm-3412,KH2N,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-3412__KH2N.cif
+2dm-3416,PbIF,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3416__PbIF.cif
+2dm-342,BCl3,Vertical_NM_Sample_other_v5,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-342__BCl3.cif
+2dm-3424,GeS,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3424__GeS.cif
+2dm-3430,BaIF,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3430__BaIF.cif
+2dm-3439,DyCl3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-3439__DyCl3.cif
+2dm-344,SiO,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-344__SiO.cif
+2dm-3440,P2H4PbO4,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3440__P2H4PbO4.cif
+2dm-3446,ThBrN,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3446__ThBrN.cif
+2dm-3449,AgN3,Vertical_NM_Sample_50_1_v6,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3449__AgN3.cif
+2dm-3451,LiBiO2,Vertical_NM_Sample_50_2_v7,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3451__LiBiO2.cif
+2dm-346,GaCl,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-346__GaCl.cif
+2dm-3461,ErSeI,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3461__ErSeI.cif
+2dm-3472,Ca(AuF6)2,Vertical_NM_Sample_50_v3,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-3472__Ca_AuF6_2.cif
+2dm-3476,AgClO2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3476__AgClO2.cif
+2dm-3484,ThIN,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3484__ThIN.cif
+2dm-3491,Au2Se2O7,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3491__Au2Se2O7.cif
+2dm-35,AlI,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-35__AlI.cif
+2dm-3507,CaHBr,Vertical_NM_Sample_50_v3,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-3507__CaHBr.cif
+2dm-3510,NdBrO,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3510__NdBrO.cif
+2dm-3511,Zr(IO3)4,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3511__Zr_IO3_4.cif
+2dm-3517,CuBr,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3517__CuBr.cif
+2dm-3519,P2O5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3519__P2O5.cif
+2dm-3521,TlF3,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3521__TlF3.cif
+2dm-3523,GaTeCl,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3523__GaTeCl.cif
+2dm-3533,CaThBr6,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3533__CaThBr6.cif
+2dm-3538,ZrIN,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3538__ZrIN.cif
+2dm-354,YBr3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-354__YBr3.cif
+2dm-3548,KNb3O8,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3548__KNb3O8.cif
+2dm-3556,AlClO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-3556__AlClO.cif
+2dm-3561,PbO,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3561__PbO.cif
+2dm-3566,LuSBr,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3566__LuSBr.cif
+2dm-3571,In4Se3,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3571__In4Se3.cif
+2dm-3575,RbPbI3,Vertical_NM_Sample_50_1_v6,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3575__RbPbI3.cif
+2dm-3581,AgXeF9,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=failed;hole_y=failed,材料/not retained/2dm-3581__AgXeF9.cif
+2dm-3582,LaI3,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3582__LaI3.cif
+2dm-3585,InClO,Vertical_NM_Sample_50_1_v6,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-3585__InClO.cif
+2dm-3592,CaHI,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3592__CaHI.cif
+2dm-3596,ErSCl,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-3596__ErSCl.cif
+2dm-3603,CaClF,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3603__CaClF.cif
+2dm-3612,GaHO2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3612__GaHO2.cif
+2dm-3619,GeAs2,Vertical_NM_Sample_50_2_v7,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3619__GeAs2.cif
+2dm-3624,NaClO4,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3624__NaClO4.cif
+2dm-3625,PbBrF,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3625__PbBrF.cif
+2dm-3629,SnO,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3629__SnO.cif
+2dm-3632,NaGaH4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3632__NaGaH4.cif
+2dm-3637,RbBrF4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3637__RbBrF4.cif
+2dm-3638,CuI,Vertical_NM_Sample_50_1_v6,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3638__CuI.cif
+2dm-3639,GeAsSe,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3639__GeAsSe.cif
+2dm-3642,AsO2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=failed;hole_y=failed,材料/high-quality/2dm-3642__AsO2.cif
+2dm-3644,SrIF,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3644__SrIF.cif
+2dm-3648,SrHI,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3648__SrHI.cif
+2dm-3650,LiHO,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3650__LiHO.cif
+2dm-3654,SnS,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3654__SnS.cif
+2dm-3659,SnPbF4,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3659__SnPbF4.cif
+2dm-3661,DySI,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-3661__DySI.cif
+2dm-3662,RbPSe6,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3662__RbPSe6.cif
+2dm-3667,InBrO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3667__InBrO.cif
+2dm-3669,PbO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3669__PbO.cif
+2dm-3672,SrH4O3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=weak,材料/high-quality/2dm-3672__SrH4O3.cif
+2dm-3678,BiClO,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3678__BiClO.cif
+2dm-3679,DySBr,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-3679__DySBr.cif
+2dm-3686,HgI2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3686__HgI2.cif
+2dm-3687,TmIO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3687__TmIO.cif
+2dm-3699,SmBr3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3699__SmBr3.cif
+2dm-37,SiCl4,Vertical_NM_Sample_other_v5,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-37__SiCl4.cif
+2dm-3703,KPSe6,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-3703__KPSe6.cif
+2dm-3709,SbF3,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3709__SbF3.cif
+2dm-3710,BiIO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3710__BiIO.cif
+2dm-3715,TlPbI3,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3715__TlPbI3.cif
+2dm-3719,SnF4,Vertical_NM_Sample_50_1_v6,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-3719__SnF4.cif
+2dm-3725,Nb3Cl7,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3725__Nb3Cl7.cif
+2dm-3726,As2SO6,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3726__As2SO6.cif
+2dm-373,SiS,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=caution,材料/high-quality/2dm-373__SiS.cif
+2dm-3753,TbCl3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-3753__TbCl3.cif
+2dm-3759,SrBrF,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3759__SrBrF.cif
+2dm-3760,InGaS3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3760__InGaS3.cif
+2dm-3762,TlI,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3762__TlI.cif
+2dm-3772,TlF,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3772__TlF.cif
+2dm-3775,TlF,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3775__TlF.cif
+2dm-3780,NdBr3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-3780__NdBr3.cif
+2dm-3797,SrThBr6,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-3797__SrThBr6.cif
+2dm-3802,Sn2IF3,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3802__Sn2IF3.cif
+2dm-3803,BaThBr6,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-3803__BaThBr6.cif
+2dm-3809,HfS3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3809__HfS3.cif
+2dm-3846,ZrBrN,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3846__ZrBrN.cif
+2dm-3854,SrThBr6,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3854__SrThBr6.cif
+2dm-3883,SiBi2O5,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3883__SiBi2O5.cif
+2dm-3890,HoBrO,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3890__HoBrO.cif
+2dm-3896,TmBrO,Vertical_NM_Sample_50_2_v7,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3896__TmBrO.cif
+2dm-3897,Ba2TiO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-3897__Ba2TiO4.cif
+2dm-3920,BaThBr6,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3920__BaThBr6.cif
+2dm-3922,TlP5,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3922__TlP5.cif
+2dm-3923,RbAsO2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3923__RbAsO2.cif
+2dm-3925,AgHgSBr,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-3925__AgHgSBr.cif
+2dm-3932,U(HO2)2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3932__U_HO2_2.cif
+2dm-3945,AuClO2,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3945__AuClO2.cif
+2dm-395,As2C,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-395__As2C.cif
+2dm-3952,Tl2SnS3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-3952__Tl2SnS3.cif
+2dm-3955,CdBiS2Cl,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3955__CdBiS2Cl.cif
+2dm-3957,Ti2ZnO5,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-3957__Ti2ZnO5.cif
+2dm-3959,AuCClO,Vertical_NM_Sample_50_1_v6,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-3959__AuCClO.cif
+2dm-3963,Te6Br2O11,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-3963__Te6Br2O11.cif
+2dm-3966,HgI2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-3966__HgI2.cif
+2dm-3969,BaCaI4,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3969__BaCaI4.cif
+2dm-3978,SnBrF,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-3978__SnBrF.cif
+2dm-3979,SbOF,Vertical_NM_Sample_50_2_v7,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-3979__SbOF.cif
+2dm-3984,HgINO3,Vertical_NM_Sample_50_1_v6,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-3984__HgINO3.cif
+2dm-3986,TiBi2O5,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-3986__TiBi2O5.cif
+2dm-399,WI2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-399__WI2.cif
+2dm-4009,MgCl2,Vertical_NM_Sample_50_1_v6,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-4009__MgCl2.cif
+2dm-4011,TaF5,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-4011__TaF5.cif
+2dm-404,SiO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-404__SiO.cif
+2dm-4052,Ta3(OF)5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4052__Ta3_OF_5.cif
+2dm-4056,NaBF4,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4056__NaBF4.cif
+2dm-407,TePb,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-407__TePb.cif
+2dm-4079,Mg(BH4)2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-4079__Mg_BH4_2.cif
+2dm-4080,CuCClO,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4080__CuCClO.cif
+2dm-4104,LaPb6BrO7,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-4104__LaPb6BrO7.cif
+2dm-4105,Pb(ClO2)2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4105__Pb_ClO2_2.cif
+2dm-4117,Ca(SnO2)2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4117__Ca_SnO2_2.cif
+2dm-4119,CaTi4O9,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4119__CaTi4O9.cif
+2dm-4125,KB(CO2)4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-4125__KB_CO2_4.cif
+2dm-4132,LiCuO,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-4132__LiCuO.cif
+2dm-414,GaI,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-414__GaI.cif
+2dm-4152,SbPO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-4152__SbPO4.cif
+2dm-4167,LiRe(OF2)2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-4167__LiRe_OF2_2.cif
+2dm-4168,CdSbS2Cl,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4168__CdSbS2Cl.cif
+2dm-4169,MoCl2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4169__MoCl2.cif
+2dm-4179,SbClO,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4179__SbClO.cif
+2dm-418,NO2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-418__NO2.cif
+2dm-4188,CaO2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-4188__CaO2.cif
+2dm-4208,Bi4Te2Br2O9,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4208__Bi4Te2Br2O9.cif
+2dm-4218,TaAsO4,Vertical_NM_Sample_50_1_v6,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4218__TaAsO4.cif
+2dm-4244,ScBrO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4244__ScBrO.cif
+2dm-4249,BaP2(HO)4,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-4249__BaP2_HO_4.cif
+2dm-4252,GeClF,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-4252__GeClF.cif
+2dm-4257,YIO,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4257__YIO.cif
+2dm-4267,AgCSN,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4267__AgCSN.cif
+2dm-4288,Ca(ClO2)2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4288__Ca_ClO2_2.cif
+2dm-4307,Bi3O2F5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4307__Bi3O2F5.cif
+2dm-4311,KAsO2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=weak,材料/high-quality/2dm-4311__KAsO2.cif
+2dm-4359,PbF4,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-4359__PbF4.cif
+2dm-437,BeBr2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-437__BeBr2.cif
+2dm-4375,LuSBr,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-4375__LuSBr.cif
+2dm-439,AsCl3,Vertical_NM_Sample_other_v5,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-439__AsCl3.cif
+2dm-4395,PrBrO,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-4395__PrBrO.cif
+2dm-4401,NaB(CO2)4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-4401__NaB_CO2_4.cif
+2dm-441,TbF3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-441__TbF3.cif
+2dm-4445,AgO2F,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-4445__AgO2F.cif
+2dm-4452,SnSO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=weak,材料/high-quality/2dm-4452__SnSO4.cif
+2dm-4456,TmBrO,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4456__TmBrO.cif
+2dm-4474,LuBrO,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4474__LuBrO.cif
+2dm-4478,GeSe,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-4478__GeSe.cif
+2dm-4485,Sn2SbS2I3,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4485__Sn2SbS2I3.cif
+2dm-4491,AlP,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4491__AlP.cif
+2dm-4498,InPbCl3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4498__InPbCl3.cif
+2dm-4517,Cu2WS4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-4517__Cu2WS4.cif
+2dm-4524,UCO5,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-4524__UCO5.cif
+2dm-453,NdCl3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-453__NdCl3.cif
+2dm-4538,Sr(ClO2)2,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-4538__Sr_ClO2_2.cif
+2dm-4544,Ba3In2Br2O5,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4544__Ba3In2Br2O5.cif
+2dm-4546,Tl4SnS3,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-4546__Tl4SnS3.cif
+2dm-4548,MgGeO3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4548__MgGeO3.cif
+2dm-4560,KH4O2F,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4560__KH4O2F.cif
+2dm-4564,ScBrO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-4564__ScBrO.cif
+2dm-4582,CaLaI5,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4582__CaLaI5.cif
+2dm-4609,HfBrN,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4609__HfBrN.cif
+2dm-4627,TlF,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-4627__TlF.cif
+2dm-4634,TmClO,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4634__TmClO.cif
+2dm-4636,Sn3(HO2)2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4636__Sn3_HO2_2.cif
+2dm-4641,SrTa2Bi2O9,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4641__SrTa2Bi2O9.cif
+2dm-4647,H2PbO2,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-4647__H2PbO2.cif
+2dm-4656,BaY3Br11,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4656__BaY3Br11.cif
+2dm-4669,HgH2NCl,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4669__HgH2NCl.cif
+2dm-4675,CdHgAsBr,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4675__CdHgAsBr.cif
+2dm-470,SrBr2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-470__SrBr2.cif
+2dm-4701,SbBrO,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4701__SbBrO.cif
+2dm-4706,Tl2Ni(CN)4,Vertical_NM_Sample_50_2_v7,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4706__Tl2Ni_CN_4.cif
+2dm-4713,ZnCl2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-4713__ZnCl2.cif
+2dm-4724,AlHO2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-4724__AlHO2.cif
+2dm-4725,AgCNO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4725__AgCNO.cif
+2dm-4727,KNO3,Vertical_NM_Sample_other_v5,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-4727__KNO3.cif
+2dm-4730,CaTi2O5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-4730__CaTi2O5.cif
+2dm-4732,PbBrCl,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4732__PbBrCl.cif
+2dm-4758,NaSbO2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4758__NaSbO2.cif
+2dm-4774,SbF5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-4774__SbF5.cif
+2dm-4796,SmBrO,Vertical_NM_Sample_50_2_v7,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4796__SmBrO.cif
+2dm-4797,AuO2F,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4797__AuO2F.cif
+2dm-48,BBr,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-48__BBr.cif
+2dm-4801,SnSe,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=weak,材料/high-quality/2dm-4801__SnSe.cif
+2dm-4808,PrIO,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=caution;hole_y=weak,材料/high-quality/2dm-4808__PrIO.cif
+2dm-4811,LuIO,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=caution,材料/high-quality/2dm-4811__LuIO.cif
+2dm-482,SnO,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-482__SnO.cif
+2dm-4825,SrTa2H2O7,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4825__SrTa2H2O7.cif
+2dm-4846,YBrO,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4846__YBrO.cif
+2dm-485,ZnCl2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-485__ZnCl2.cif
+2dm-4851,Te2SO7,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4851__Te2SO7.cif
+2dm-4852,ZnP2(HO)4,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4852__ZnP2_HO_4.cif
+2dm-4861,AgI,Vertical_NM_Sample_50_2_v7,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4861__AgI.cif
+2dm-4877,Zn(BH4)2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-4877__Zn_BH4_2.cif
+2dm-4911,ErClO,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-4911__ErClO.cif
+2dm-4912,SiP2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4912__SiP2.cif
+2dm-4917,NdIO,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-4917__NdIO.cif
+2dm-4918,SrTiSi2O7,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-4918__SrTiSi2O7.cif
+2dm-4928,ZnSe,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4928__ZnSe.cif
+2dm-4961,AgBrO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-4961__AgBrO4.cif
+2dm-4968,SmIO,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-4968__SmIO.cif
+2dm-4969,SbTeClO3,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-4969__SbTeClO3.cif
+2dm-498,CdI2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-498__CdI2.cif
+2dm-4980,ZnSeO3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-4980__ZnSeO3.cif
+2dm-5043,ZnGaNO,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-5043__ZnGaNO.cif
+2dm-5051,HoIO,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-5051__HoIO.cif
+2dm-5058,TaTl(CuS2)2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5058__TaTl_CuS2_2.cif
+2dm-5060,NbPO5,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-5060__NbPO5.cif
+2dm-5071,KCSN,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-5071__KCSN.cif
+2dm-5081,AgPb4ClO4,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5081__AgPb4ClO4.cif
+2dm-5093,RbAuS,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5093__RbAuS.cif
+2dm-5102,LiH2IO,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5102__LiH2IO.cif
+2dm-5107,KHCO2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5107__KHCO2.cif
+2dm-5116,SnSe,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-5116__SnSe.cif
+2dm-5125,TlBr,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5125__TlBr.cif
+2dm-5130,LaIO,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-5130__LaIO.cif
+2dm-5132,SnClF,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5132__SnClF.cif
+2dm-5139,ScHO2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5139__ScHO2.cif
+2dm-5146,TlAsO4,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-5146__TlAsO4.cif
+2dm-515,DyF3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-515__DyF3.cif
+2dm-5171,NaCSN,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5171__NaCSN.cif
+2dm-5172,ZrF4,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-5172__ZrF4.cif
+2dm-5182,SrH2I2O,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-5182__SrH2I2O.cif
+2dm-5184,CaLaI5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5184__CaLaI5.cif
+2dm-5209,InTeClO3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5209__InTeClO3.cif
+2dm-5221,TaF5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5221__TaF5.cif
+2dm-5240,AsPO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=caution;hole_y=caution,材料/high-quality/2dm-5240__AsPO4.cif
+2dm-5265,Li2SO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=weak,材料/high-quality/2dm-5265__Li2SO4.cif
+2dm-5285,GaH3NF3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5285__GaH3NF3.cif
+2dm-529,NCl3,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-529__NCl3.cif
+2dm-5304,NaHO,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5304__NaHO.cif
+2dm-5308,Nb2Ge2O7,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5308__Nb2Ge2O7.cif
+2dm-5312,BaZnF4,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5312__BaZnF4.cif
+2dm-5323,ScClO,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5323__ScClO.cif
+2dm-5326,ZrS3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=caution,材料/high-quality/2dm-5326__ZrS3.cif
+2dm-5328,MgCl2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-5328__MgCl2.cif
+2dm-5330,Zn(SbO2)2,Vertical_NM_Sample_50_1_v6,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5330__Zn_SbO2_2.cif
+2dm-5342,Pb2O3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5342__Pb2O3.cif
+2dm-5344,CdH2SeO4,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-5344__CdH2SeO4.cif
+2dm-5381,BaH4O3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5381__BaH4O3.cif
+2dm-5382,NaAsO2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=caution;hole_y=caution,材料/high-quality/2dm-5382__NaAsO2.cif
+2dm-5385,Ba2InBrO3,Vertical_NM_Sample_50_2_v7,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5385__Ba2InBrO3.cif
+2dm-5401,HIO3,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5401__HIO3.cif
+2dm-5411,NaI3O8,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-5411__NaI3O8.cif
+2dm-5427,Ca(BiO2)2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5427__Ca_BiO2_2.cif
+2dm-5428,Re2S2O13,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5428__Re2S2O13.cif
+2dm-5461,ReSeCl,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5461__ReSeCl.cif
+2dm-5474,LaMgI5,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5474__LaMgI5.cif
+2dm-5482,TiPbO3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5482__TiPbO3.cif
+2dm-5490,SiAs2,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5490__SiAs2.cif
+2dm-5501,Li2WS4,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-5501__Li2WS4.cif
+2dm-5518,CaInBr3,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5518__CaInBr3.cif
+2dm-5520,ScClO,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5520__ScClO.cif
+2dm-5522,Br,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-5522__Br.cif
+2dm-553,YF3,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-553__YF3.cif
+2dm-5560,Na2H10SO5,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5560__Na2H10SO5.cif
+2dm-5570,LiClO2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5570__LiClO2.cif
+2dm-5571,Pb3SeO5,Vertical_NM_Sample_other_v5,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5571__Pb3SeO5.cif
+2dm-5572,Li4TiS4,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5572__Li4TiS4.cif
+2dm-5601,Sb2O3,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5601__Sb2O3.cif
+2dm-5604,GeBi2O5,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5604__GeBi2O5.cif
+2dm-5611,LiAgF4,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5611__LiAgF4.cif
+2dm-562,GaBr3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-562__GaBr3.cif
+2dm-5624,Ta2O5,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-5624__Ta2O5.cif
+2dm-5637,WBr2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5637__WBr2.cif
+2dm-5647,HgSO4,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5647__HgSO4.cif
+2dm-5648,AgCN3O2,Vertical_NM_Sample_50_2_v7,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5648__AgCN3O2.cif
+2dm-5705,Zn3P2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5705__Zn3P2.cif
+2dm-5708,SnBrCl,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5708__SnBrCl.cif
+2dm-5709,Pb3SO6,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-5709__Pb3SO6.cif
+2dm-5738,MgTi4O9,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-5738__MgTi4O9.cif
+2dm-5762,CaH4(ClO)2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-5762__CaH4_ClO_2.cif
+2dm-5775,Sb2O3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5775__Sb2O3.cif
+2dm-578,BaI2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-578__BaI2.cif
+2dm-5810,Ag2PdCl4,Vertical_NM_Sample_50_1_v6,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-5810__Ag2PdCl4.cif
+2dm-5858,NaTeF5,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5858__NaTeF5.cif
+2dm-5878,ZnTeO3,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5878__ZnTeO3.cif
+2dm-5879,Ta3Br7,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5879__Ta3Br7.cif
+2dm-5880,BaH4O3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=caution;hole_y=caution,材料/high-quality/2dm-5880__BaH4O3.cif
+2dm-5890,KTeF5,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5890__KTeF5.cif
+2dm-5904,BaY3Cl11,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-5904__BaY3Cl11.cif
+2dm-591,BCl,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-591__BCl.cif
+2dm-5919,RbReCl4,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-5919__RbReCl4.cif
+2dm-5947,Cl2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-5947__Cl2.cif
+2dm-5978,F2,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=caution;hole_x=caution;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-5978__F2.cif
+2dm-598,MoI2,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-598__MoI2.cif
+2dm-6028,SnS2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-6028__SnS2.cif
+2dm-6046,SiP2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6046__SiP2.cif
+2dm-608,GaCl3,Vertical_NM_Sample_50_v3,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-608__GaCl3.cif
+2dm-6111,KCl,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6111__KCl.cif
+2dm-6114,KI,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6114__KI.cif
+2dm-6127,NaBr,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6127__NaBr.cif
+2dm-6131,RbI,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6131__RbI.cif
+2dm-6152,LiBr,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6152__LiBr.cif
+2dm-6157,SiSe2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-6157__SiSe2.cif
+2dm-6175,Be3C,Vertical_NM_Sample_50_2_v7,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6175__Be3C.cif
+2dm-6194,LiI,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6194__LiI.cif
+2dm-6205,PtCl2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-6205__PtCl2.cif
+2dm-6222,KF,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-6222__KF.cif
+2dm-6230,LiCl,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6230__LiCl.cif
+2dm-6234,PtF2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6234__PtF2.cif
+2dm-6264,KBr,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6264__KBr.cif
+2dm-6272,SiS2,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-6272__SiS2.cif
+2dm-6274,SeO2,Vertical_NM_Sample_200_v2,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-6274__SeO2.cif
+2dm-6295,P2C,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-6295__P2C.cif
+2dm-6317,RbF,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6317__RbF.cif
+2dm-6361,RbCl,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-6361__RbCl.cif
+2dm-6404,Nb2O5,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-6404__Nb2O5.cif
+2dm-674,MgO2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-674__MgO2.cif
+2dm-686,SmI3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=caution,材料/high-quality/2dm-686__SmI3.cif
+2dm-69,InBr,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=caution;hole_x=filtered;electron_y=caution;hole_y=filtered,材料/high-quality/2dm-69__InBr.cif
+2dm-690,CaF2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-690__CaF2.cif
+2dm-697,CaI2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=failed;hole_x=failed;electron_y=failed;hole_y=failed,材料/not retained/2dm-697__CaI2.cif
+2dm-708,InF,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-708__InF.cif
+2dm-721,AlCl3,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=caution;hole_y=caution,材料/moderate-quality/2dm-721__AlCl3.cif
+2dm-728,BeO2,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-728__BeO2.cif
+2dm-732,GeSb2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-732__GeSb2.cif
+2dm-736,SrF2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-736__SrF2.cif
+2dm-738,DyI3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-738__DyI3.cif
+2dm-760,BeI2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-760__BeI2.cif
+2dm-77,BI,Vertical_NM_Sample_50_v4,caution-only,moderate-quality,electron_x=caution;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-77__BI.cif
+2dm-772,BaO2,Vertical_NM_Sample_100,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-772__BaO2.cif
+2dm-778,YCl3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=failed;hole_y=failed,材料/high-quality/2dm-778__YCl3.cif
+2dm-779,BBr3,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-779__BBr3.cif
+2dm-781,GeTe,Vertical_NM_Sample_other_v5,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-781__GeTe.cif
+2dm-783,SmCl3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=weak,材料/high-quality/2dm-783__SmCl3.cif
+2dm-784,P2C,Vertical_NM_Sample_50_v4,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-784__P2C.cif
+2dm-793,InCl3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-793__InCl3.cif
+2dm-801,CdBr2,Vertical_NM_Sample_50_v3,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-801__CdBr2.cif
+2dm-803,BCl,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-803__BCl.cif
+2dm-805,GeSe,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-805__GeSe.cif
+2dm-814,AlI,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-814__AlI.cif
+2dm-831,GeO,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-831__GeO.cif
+2dm-843,GaF,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-843__GaF.cif
+2dm-846,GaBr,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=filtered;hole_y=filtered,材料/high-quality/2dm-846__GaBr.cif
+2dm-849,InBr,Vertical_NM_Sample_50_v4,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=caution,材料/moderate-quality/2dm-849__InBr.cif
+2dm-862,AlBr3,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=weak;hole_x=caution;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-862__AlBr3.cif
+2dm-869,TbI3,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-869__TbI3.cif
+2dm-872,NdI3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-872__NdI3.cif
+2dm-875,SmF3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=weak,材料/high-quality/2dm-875__SmF3.cif
+2dm-880,BaF2,Vertical_NM_Sample_50_v4,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-880__BaF2.cif
+2dm-886,DyBr3,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-886__DyBr3.cif
+2dm-89,PO2,Vertical_NM_Sample_100_v1,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=caution;electron_y=weak;hole_y=weak,材料/high-quality/2dm-89__PO2.cif
+2dm-911,PCl3,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=failed;hole_y=failed,材料/not retained/2dm-911__PCl3.cif
+2dm-913,InCl,Vertical_NM_Sample_100,caution-only,moderate-quality,electron_x=weak;hole_x=weak;electron_y=caution;hole_y=weak,材料/moderate-quality/2dm-913__InCl.cif
+2dm-922,Ga4S3,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=weak;hole_y=caution,材料/high-quality/2dm-922__Ga4S3.cif
+2dm-925,WCl2,Vertical_NM_Sample_200_v2,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-925__WCl2.cif
+2dm-940,BaBr2,Vertical_NM_Sample_100_v1,no retained channel,not retained,electron_x=weak;hole_x=weak;electron_y=weak;hole_y=weak,材料/not retained/2dm-940__BaBr2.cif
+2dm-951,BeF2,Vertical_NM_Sample_200_v2,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=caution,材料/high-quality/2dm-951__BeF2.cif
+2dm-958,GaCl,Vertical_NM_Sample_50_v3,>=1 filtered channel,high-quality,electron_x=weak;hole_x=filtered;electron_y=weak;hole_y=filtered,材料/high-quality/2dm-958__GaCl.cif
+2dm-962,AlP,Vertical_NM_Sample_100,>=1 filtered channel,high-quality,electron_x=filtered;hole_x=weak;electron_y=filtered;hole_y=weak,材料/high-quality/2dm-962__AlP.cif
+2dm-966,InCl,Vertical_NM_Sample_100_v1,caution-only,moderate-quality,electron_x=weak;hole_x=caution;electron_y=weak;hole_y=weak,材料/moderate-quality/2dm-966__InCl.cif

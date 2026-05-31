@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Conda / env / editor noise
+.env
+.venv/
+*.swp
+*.swo
+.DS_Store
+
+# Large data, generated artifacts, logs, archives
+03_datasets/**
+!03_datasets/04_metadata/
+!03_datasets/04_metadata/materials_export_summary.csv
+!03_datasets/04_metadata/mobility2d_highquality280_atomic_dist.json
+
+04_models/**
+!04_models/02_alignn_bandgap_nonmetal/
+!04_models/02_alignn_bandgap_nonmetal/config.json
+!04_models/03_megnet_formation_energy/
+!04_models/03_megnet_formation_energy/megnet_formation_energy.hdf5.json
+!04_models/04_alignn_mobility/
+!04_models/04_alignn_mobility/mobility_reg_v1_bs8_lr5e4_wu200_nw4/
+!04_models/04_alignn_mobility/mobility_reg_v1_bs8_lr5e4_wu200_nw4/config.json
+
+06_runs/
+07_logs/
+08_archive/
+
+# Upstream checkout generated data / local state
+01_code/InvDesFlow/data/
+01_code/InvDesFlow/__pycache__/
+01_code/InvDesFlow/**/*.pt
+01_code/InvDesFlow/**/*.ckpt
+01_code/InvDesFlow/DiffCSP/conf/data/test_closed_loop_*.yaml
+01_code/MatterSim/
+
+# VASP and high-throughput raw outputs. Keep these in local run directories or
+# in a separate archival record, not in the public code repository.
+POTCAR
+POTCAR.*
+WAVECAR
+WAVECAR.*
+CHGCAR
+CHGCAR.*
+CHG
+CHG.*
+vasprun.xml
+vaspout.h5
+OUTCAR
+EIGENVAL
+DOSCAR
+PROCAR
+IBZKPT
+OSZICAR
+XDATCAR
+PCDAT
+REPORT
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Keep source code and step assets tracked
+!06_runs/README.md
+!07_logs/README.md

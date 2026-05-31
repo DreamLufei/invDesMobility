@@ -1,0 +1,16 @@
+name: megnet-form
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26
+  - pandas
+  - scipy
+  - scikit-learn
+  - h5py
+  - cython
+  - setuptools<70
+  - pip:
+      - pip>=24.0

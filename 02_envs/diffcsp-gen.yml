@@ -1,0 +1,12 @@
+name: diffcsp-gen
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.13
+  - pip
+  - git
+  - cudatoolkit=11.1
+  - pip:
+      - pip>=24.0

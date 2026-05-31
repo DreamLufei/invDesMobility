@@ -1,0 +1,16 @@
+name: alignn-screen
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - h5py
+  - spglib
+  - pip:
+      - pip>=24.0
