@@ -551,7 +551,10 @@
 
   function renderManuscriptQa(data) {
     renderQuestionSuggestions(data);
-    answerManuscriptQuestion(data.articleRag?.suggestedQuestions?.[0] || "");
+    const fallback = data.articleRag?.suggestedQuestions?.[0] || "What is this paper about?";
+    $("#manuscript-question").value = fallback;
+    const matches = getQaMatches(fallback);
+    renderQaAnswer(makeQaAnswer(fallback, matches), matches);
   }
 
   function bindManuscriptQa() {
