@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const DATA_URL = "data/site-data.json";
+  const DATA_URL = "data/site-data.json?v=2026-06-01-evidence-guide";
   const DATABASE_RESULT_LIMIT = 10;
   const QA_RESULT_LIMIT = 3;
 
@@ -444,7 +444,7 @@
   function overviewAnswerChinese(data) {
     const metrics = data.metrics;
     return [
-      "这篇文章介绍 InvDesMobility：一个把第一性原理迁移率计算转化为可审计反馈的闭环逆向设计框架。",
+      "这篇文章介绍 InvDesMobility：一个把第一性原理迁移率验证转化为可靠性门控反馈的闭环逆向设计框架。",
       `它从 ${formatNumber(metrics.seedStructures)} 个二维半导体种子结构和 ${formatNumber(metrics.seedChannels)} 个载流子-方向通道出发，通过 reliability gate 保留可进入学习循环的反馈。`,
       `在生成阶段，系统筛选 ${formatCompact(metrics.generatedStructures)} 个结构，提交 ${formatNumber(metrics.deduplicatedSubmittedCandidates)} 个 DFT 候选，最终保留 ${formatNumber(metrics.retainedGeneratedFormulas)} 个生成公式和 ${formatNumber(metrics.trustedGeneratedChannels)} 个可靠通道。`,
     ].join(" ");
@@ -453,7 +453,7 @@
   function overviewAnswerEnglish(data) {
     const metrics = data.metrics;
     return [
-      "The paper presents InvDesMobility, a closed-loop framework that turns first-principles mobility calculations into auditable feedback for inverse design of two-dimensional semiconductors.",
+      "The paper presents InvDesMobility, a closed-loop framework that converts first-principles mobility validation into reliability-gated feedback for inverse design of two-dimensional semiconductors.",
       `The snapshot starts from ${formatNumber(metrics.seedStructures)} seed structures and ${formatNumber(metrics.seedChannels)} carrier-direction channels, then admits only reliability-gated feedback into the learning loop.`,
       `At campaign scale it screens ${formatCompact(metrics.generatedStructures)} generated structures, submits ${formatNumber(metrics.deduplicatedSubmittedCandidates)} DFT candidates, and retains ${formatNumber(metrics.retainedGeneratedFormulas)} generated formulas with ${formatNumber(metrics.trustedGeneratedChannels)} trusted channels.`,
     ].join(" ");

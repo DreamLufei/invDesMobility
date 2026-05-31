@@ -1,5 +1,5 @@
 {
-  "siteVersion": "2026-05-31-campaign-refresh",
+  "siteVersion": "2026-06-01-evidence-guide",
   "sourcePackage": "agent_mobility (4)",
   "sourceFiles": [
     "main.tex",
@@ -17,7 +17,7 @@
   },
   "primaryStory": {
     "title": "Campaign-scale reliability-gated feedback",
-    "headline": "InvDesMobility turns a 2.4 million-structure generated campaign into auditable first-principles mobility feedback.",
+    "headline": "InvDesMobility converts first-principles mobility validation into reliability-gated feedback for closed-loop inverse design of two-dimensional semiconductors.",
     "summary": "InvDesMobility packages first-principles mobility calculations into reliability-gated feedback for inverse design of two-dimensional semiconductors. This snapshot connects 516 seed structures, 2,064 seed carrier-direction channels, a 2.4 million-structure generated campaign, 102 DFT candidates, 41 retained generated formulas, and 659 total retained feedback labels.",
     "abstract": "In closed-loop computational discovery, first-principles calculations increasingly update generative and acquisition models, not only validate final candidates. For multi-stage density functional theory workflows, the bottleneck is feedback admissibility: deciding which completed calculations are reliable enough to shape subsequent search. We present InvDesMobility, a closed-loop framework that turns first-principles mobility calculations into auditable feedback for inverse design of two-dimensional semiconductors. The framework evaluates 2,064 carrier--direction channels from 516 seed semiconductors and retains 573 reliability-gated entries across 280 materials. These retained entries train a structure-aware graph neural network for candidate prioritization, recovering 8 of 28 true top-decile seed materials within the predicted top 10\\%, corresponding to a 2.9-fold enrichment. Across multiple iterations, the loop screens 2.4 million generated structures, validates 102 candidates by DFT and retains 41 generated formulas with 86 reliability-gated channels. The study converts multi-stage first-principles validation into reusable, state-traceable feedback for autonomous materials discovery."
   },
@@ -66992,17 +66992,17 @@
   ],
   "claimBoundaries": {
     "supported": [
-      "Reviewers can inspect the manuscript-aligned counts, candidate records, QC labels, and figure evidence.",
-      "ALIGNN evidence is presented as acquisition ranking, not as final mobility labels.",
-      "Retained feedback means carrier-direction channels that passed the reliability/QC gate.",
-      "Generated candidates are computational follow-up targets under the manuscript protocol."
+      "Campaign counts connect seed materials, generated candidates, DFT validation, and retained feedback labels.",
+      "Carrier-direction records link formulas, mobility values, QC labels, and reliability-gate outcomes.",
+      "Figures, tables, search results, and Q&A citations trace claims back to the manuscript evidence snapshot.",
+      "Generated candidates are presented as computational follow-up targets under the stated protocol."
     ],
     "unsupported": [
-      "This page does not run new VASP calculations.",
-      "This page does not make new LLM-based scientific decisions.",
-      "This page does not provide experimental measurements of generated candidates.",
-      "This page does not claim an agent-vs-script performance comparison.",
-      "This page does not provide full electron-phonon mobility calculations."
+      "Displayed values are stored outputs from the manuscript workflow, not calculations launched in the browser.",
+      "Q&A answers are grounded in retrieved manuscript passages; source data and figures remain the authoritative evidence.",
+      "ALIGNN is interpreted as an acquisition ranker; final mobility evidence comes from first-principles validation and reliability gates.",
+      "Generated materials are computational follow-up candidates; experimental, device, and synthesizability claims require additional work.",
+      "Full electron-phonon transport and rare-earth robustness checks belong to narrower follow-up studies."
     ]
   }
 }
