@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>InvDesMobility Reviewer Companion</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="assets/site.css">
+    <script src="assets/runtime-config.js"></script>
+    <script src="assets/site.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#overview">Skip to overview</a>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="identity">
+          <p class="eyebrow">Reviewer companion / frozen-data site</p>
+          <h1>InvDesMobility</h1>
+          <p id="campaign-headline" class="headline">Loading campaign data...</p>
+        </div>
+        <nav class="top-nav" aria-label="Section navigation">
+          <a href="#overview">Overview</a>
+          <a href="#funnel">Evidence</a>
+          <a href="#database">Search</a>
+          <a href="#candidates">Candidates</a>
+          <a href="#figures">Figures</a>
+          <a href="#boundaries">Scope</a>
+          <a href="#ask">Ask</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section id="overview" class="section section-overview">
+        <div class="section-inner overview-layout">
+          <div class="copy-block">
+            <p class="section-kicker">Campaign overview</p>
+            <h2>Quality-controlled oracle feedback for inverse mobility design</h2>
+            <p id="abstract-text" class="lead-text">
+              The reviewer companion is loading the manuscript-aligned data snapshot.
+            </p>
+          </div>
+          <aside class="boundary-panel" aria-labelledby="claim-summary-title">
+            <h3 id="claim-summary-title">Reviewer framing</h3>
+            <p>
+              A static companion for checking the same evidence categories used in the manuscript:
+              seed materials, mobility channels, generated candidates, QC rules, and figures.
+            </p>
+            <a class="text-link" href="#boundaries">View evidence scope</a>
+          </aside>
+        </div>
+        <div class="section-inner">
+          <div id="metric-grid" class="metric-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="funnel" class="section section-band">
+        <div class="section-inner">
+          <div class="section-heading">
+            <p class="section-kicker">Evidence funnel</p>
+            <h2>From generated structures to retained feedback labels</h2>
+          </div>
+          <div id="funnel-chart" class="funnel-chart"></div>
+          <div id="alignn-panel" class="alignn-panel"></div>
+        </div>
+      </section>
+
+      <section id="database" class="section">
+        <div class="section-inner">
+          <div class="section-heading split-heading">
+            <div>
+              <p class="section-kicker">Evidence search</p>
+              <h2>Search manuscript evidence by formula, ID, channel, or QC status</h2>
+            </div>
+            <a class="action-link" href="data/site-data.json" download>Download data snapshot</a>
+          </div>
+
+          <div id="database-summary" class="database-summary"></div>
+
+          <div class="toolbar database-toolbar" aria-label="Database search filters">
+            <label class="field">
+              <span>Search evidence</span>
+              <input id="database-search" type="search" autocomplete="off" placeholder="Formula, material ID, candidate ID, channel, QC label">
+            </label>
+            <label class="field">
+              <span>Evidence section</span>
+              <select id="database-table-filter"></select>
+            </label>
+          </div>
+
+          <div class="table-shell database-shell">
+            <div class="table-status" id="database-count"></div>
+            <div id="database-results" class="database-results"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="candidates" class="section section-band">
+        <div class="section-inner">
+          <div class="section-heading split-heading">
+            <div>
+              <p class="section-kicker">Trusted candidates</p>
+              <h2>Generated formulas retained after reliability gating</h2>
+            </div>
+            <a class="action-link" href="data/site-data.json" download>Download data snapshot</a>
+          </div>
+
+          <div id="candidate-highlights" class="candidate-grid"></div>
+
+          <div class="toolbar" aria-label="Candidate filters">
+            <label class="field">
+              <span>Search</span>
+              <input id="candidate-search" type="search" autocomplete="off" placeholder="Formula, carrier, channel, cluster">
+            </label>
+            <label class="field">
+              <span>Carrier</span>
+              <select id="carrier-filter">
+                <option value="all">All carriers</option>
+                <option value="electron">Electron</option>
+                <option value="hole">Hole</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Minimum mobility</span>
+              <select id="mobility-filter">
+                <option value="0">Any mobility</option>
+                <option value="100">>= 100 cm² V⁻¹ s⁻¹</option>
+                <option value="500">>= 500 cm² V⁻¹ s⁻¹</option>
+                <option value="1000">>= 1,000 cm² V⁻¹ s⁻¹</option>
+                <option value="5000">>= 5,000 cm² V⁻¹ s⁻¹</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="table-shell">
+            <div class="table-status" id="candidate-count"></div>
+            <div class="table-scroll">
+              <table class="data-table" aria-describedby="candidate-count">
+                <thead>
+                  <tr>
+                    <th><button type="button" data-sort="formula">Formula</button></th>
+                    <th><button type="button" data-sort="bestMobility">Best mobility</button></th>
+                    <th><button type="button" data-sort="bestCarrier">Carrier</button></th>
+                    <th><button type="button" data-sort="bestChannel">Channel</button></th>
+                    <th><button type="button" data-sort="usableChannelCount">Trusted channels</button></th>
+                    <th><button type="button" data-sort="structureClusterId">Cluster</button></th>
+                  </tr>
+                </thead>
+                <tbody id="candidate-table-body"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="reliability" class="section">
+        <div class="section-inner">
+          <div class="section-heading">
+            <p class="section-kicker">Reliability gate</p>
+            <h2>Retained-vs-withheld audit for feedback admissibility</h2>
+          </div>
+          <div id="reliability-grid" class="reliability-grid"></div>
+        </div>
+      </section>
+
+      <section id="figures" class="section">
+        <div class="section-inner">
+          <div class="section-heading">
+            <p class="section-kicker">Manuscript figures</p>
+            <h2>Latest figures copied from the refreshed package</h2>
+          </div>
+          <div id="figure-tabs" class="figure-tabs" role="tablist" aria-label="Figure selector"></div>
+          <article id="figure-preview" class="figure-preview" aria-live="polite"></article>
+        </div>
+      </section>
+
+      <section id="data" class="section section-band">
+        <div class="section-inner">
+          <div class="section-heading">
+            <p class="section-kicker">Data explorer</p>
+            <h2>Read-only provenance tables</h2>
+          </div>
+          <div class="details-stack">
+            <details open>
+              <summary>Top trusted carrier-direction channels</summary>
+              <div id="trusted-channel-table" class="details-content"></div>
+            </details>
+            <details>
+              <summary>Round-level source audit</summary>
+              <p class="details-note">
+                This table is kept as provenance for the campaign accounting; the main reviewer
+                story above remains campaign-level.
+              </p>
+              <div id="round-audit-table" class="details-content"></div>
+            </details>
+            <details>
+              <summary>Source files included in the frozen build</summary>
+              <div id="source-file-list" class="details-content"></div>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <section id="boundaries" class="section">
+        <div class="section-inner">
+          <div class="section-heading">
+            <p class="section-kicker">Evidence scope</p>
+            <h2>What reviewers can verify on this page</h2>
+          </div>
+          <div class="claim-grid">
+            <article>
+              <h3>Included evidence</h3>
+              <ul id="supported-claims"></ul>
+            </article>
+            <article>
+              <h3>Outside this page</h3>
+              <ul id="unsupported-claims"></ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="ask" class="section section-band">
+        <div class="section-inner">
+          <div class="section-heading">
+            <p class="section-kicker">Manuscript Q&A</p>
+            <h2>Ask the manuscript</h2>
+          </div>
+
+          <div class="qa-panel">
+            <form id="manuscript-qa-form" class="qa-form">
+              <label class="field">
+                <span>Question</span>
+                <input id="manuscript-question" type="search" autocomplete="off" placeholder="这篇文章讲了什么？">
+              </label>
+              <button id="manuscript-ask-button" type="submit">Ask</button>
+            </form>
+            <div id="question-suggestions" class="question-suggestions" aria-label="Suggested manuscript questions"></div>
+            <article id="manuscript-answer" class="qa-answer" aria-live="polite"></article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="section-inner footer-inner">
+        <span id="site-version">Data snapshot loading...</span>
+        <span>GitHub Pages-ready static reviewer companion.</span>
+      </div>
+    </footer>
+
+    <noscript>
+      <div class="noscript">This static companion needs JavaScript to render the frozen data snapshot.</div>
+    </noscript>
+  </body>
+</html>
