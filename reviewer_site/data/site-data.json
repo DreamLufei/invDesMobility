@@ -66467,11 +66467,11 @@
     "mode": "static cited retrieval",
     "description": "Browser-side retrieval over cleaned manuscript and supplementary text for the GitHub Pages build.",
     "suggestedQuestions": [
-      "这篇文章讲了什么？",
-      "InvDesMobility 的主要贡献是什么？",
-      "为什么需要 reliability gate？",
-      "ALIGNN 在这里起什么作用？",
-      "生成候选材料是如何筛选的？"
+      "What is this paper about?",
+      "What are the main contributions of InvDesMobility?",
+      "Why is the reliability gate needed?",
+      "What is the role of ALIGNN in this paper?",
+      "How are generated candidate materials screened?"
     ],
     "chunks": [
       {
@@ -66998,11 +66998,11 @@
       "Generated candidates are computational follow-up targets under the manuscript protocol."
     ],
     "unsupported": [
-      "New VASP calculations run inside this website.",
-      "Live LLM decisions during review.",
-      "Experimental measurements of generated candidates.",
-      "Agent-vs-script performance comparisons.",
-      "Full electron-phonon mobility calculations."
+      "This page does not run new VASP calculations.",
+      "This page does not make new LLM-based scientific decisions.",
+      "This page does not provide experimental measurements of generated candidates.",
+      "This page does not claim an agent-vs-script performance comparison.",
+      "This page does not provide full electron-phonon mobility calculations."
     ]
   }
 }
