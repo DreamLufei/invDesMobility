@@ -68,3 +68,7 @@ REPORT
 # Keep source code and step assets tracked
 !06_runs/README.md
 !07_logs/README.md
+
+# Local Cloudflare Wrangler state
+.wrangler/
+**/.wrangler/
