@@ -29,6 +29,20 @@ The public repository is intentionally small. Large generated pools, training
 datasets, checkpoints, run directories and raw VASP results should be stored in
 an external data/model archive.
 
+## External artifacts
+
+This repository intentionally excludes large source-data tables, generated pools, trained checkpoints and raw first-principles outputs. Processed source data and retained feedback records are archived on Zenodo:
+
+- Zenodo source-data archive: https://doi.org/10.5281/zenodo.20475023
+
+Released DiffCSP generator checkpoints are available on Hugging Face:
+
+- InvDesMobility DiffCSP generator checkpoints: https://huggingface.co/DreamLufei
+
+The companion evidence website is available at:
+
+- https://dreamlufei.github.io/invDesMobility/
+
 ## Requirements
 
 The full workflow uses several separate scientific Python environments:
@@ -156,5 +170,4 @@ See [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) for an additional checklist.
 
 ## License
 
-The license terms are defined by the `LICENSE` file when one is added to the
-repository.
+This repository is released under the MIT License; see `LICENSE`.
