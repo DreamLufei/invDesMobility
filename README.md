@@ -1,16 +1,20 @@
 # invDesMobility
 
-`invDesMobility` contains a generative inverse-design and screening workflow
-for candidate two-dimensional materials. It prepares feedback datasets,
-fine-tunes a DiffCSP generator, generates candidate structures, deduplicates
-the generated pool, applies surrogate electronic and stability filters, ranks
-surviving candidates with an ALIGNN mobility acquisition model and exports
-validation queues.
+`invDesMobility` contains the generation, screening, acquisition-ranking and
+feedback data-preparation workflow used by the InvDesMobility closed-loop
+materials-discovery campaign. It is not only a DiffCSP generator repository. The
+workflow prepares seed and feedback datasets, fine-tunes the structure
+generator, generates candidate structures, deduplicates generated and reference
+pools, applies electronic, formation-energy and dynamical-stability screens,
+ranks surviving candidates with an ALIGNN mobility acquisition model and exports
+top-k validation queues for first-principles mobility calculations.
 
 First-principles mobility labels are assigned by the companion VASP-based
-runtime `2d-mobility`. This repository owns generation, screening, ranking and
-feedback data preparation; it does not distribute VASP inputs, pseudopotentials
-or completed first-principles calculation folders.
+runtime `2d-mobility`. This repository owns the code and lightweight metadata
+for generation, screening, ranking and feedback preparation; processed source
+data, trained checkpoints and large generated pools are released through
+external data/model archives. It does not distribute VASP inputs,
+pseudopotentials or completed first-principles calculation folders.
 
 ## What Is Included
 
@@ -29,23 +33,45 @@ The public repository is intentionally small. Large generated pools, training
 datasets, checkpoints, run directories and raw VASP results should be stored in
 an external data/model archive.
 
-## External artifacts
+## External Artifacts
 
-This repository intentionally excludes large source-data tables, generated pools, trained checkpoints and raw first-principles outputs. Processed source data and retained feedback records are archived on Zenodo:
+This public GitHub repository contains workflow code, environment files,
+step-level scripts, tests and lightweight metadata. The data and model
+artifacts needed to reproduce the manuscript-level workflow are distributed
+separately:
 
-- Zenodo source-data archive: https://doi.org/10.5281/zenodo.20475023
+* **Processed source data and retained feedback records:** Zenodo DOI
+  `10.5281/zenodo.20475023`.
+* **Companion Hugging Face dataset:**
+  `https://huggingface.co/datasets/DreamLufei/invDesMobility-data`.
+* **DiffCSP generator checkpoints:**
+  `https://huggingface.co/DreamLufei/invDesMobility-diffcsp-generator`.
+* **ALIGNN mobility acquisition-ranker checkpoints:**
+  `https://huggingface.co/DreamLufei/invDesMobility-alignn-mobility-ranker`.
+* **ALIGNN band-gap / nonmetal-screening checkpoints:**
+  `https://huggingface.co/DreamLufei/invDesMobility-alignn-bandgap-nonmetal`.
+* **MEGNet formation-energy screening checkpoints:**
+  `https://huggingface.co/DreamLufei/invDesMobility-megnet-formation-energy`.
+* **First-principles mobility runtime:**
+  `https://github.com/DreamLufei/2d-mobility`.
+* **Closed-loop orchestration bridge:**
+  `https://github.com/DreamLufei/invdesmobility_loop`.
+* **Companion evidence website:**
+  `https://dreamlufei.github.io/invDesMobility/`.
 
-Released DiffCSP generator checkpoints are available on Hugging Face:
-
-- InvDesMobility DiffCSP generator checkpoints: https://huggingface.co/DreamLufei
-
-The companion evidence website is available at:
-
-- https://dreamlufei.github.io/invDesMobility/
+The Zenodo and Hugging Face data releases include manuscript source tables and
+audit records such as seed mobility channels, generated-candidate validation
+records, ALIGNN validation tables, round-wise feedback accounting, retrospective
+policy-replay source tables, manifests and checksums. The model repositories
+provide released checkpoints and model cards for the generator and surrogate
+screening/ranking models. Large raw VASP working directories, POTCAR files,
+OUTCAR, CHGCAR, WAVECAR and local credentials are not redistributed.
 
 ## Requirements
 
-The full workflow uses several separate scientific Python environments:
+The full workflow uses several separate scientific Python environments because
+generation, screening, ranking and feedback preparation rely on different model
+families:
 
 - DiffCSP generation and fine-tuning.
 - ALIGNN bandgap/nonmetal and mobility ranking.
@@ -158,16 +184,20 @@ environments and model/data artifacts described above.
 
 ## Public-Release Boundaries
 
-This repository intentionally excludes:
+This repository intentionally excludes large or licensed artifacts:
 
-- trained generator checkpoints and ALIGNN/MEGNet weights;
-- generated `10^5` to `5*10^5` candidate pools;
-- full `06_runs/`, `07_logs/` and archival folders;
-- VASP `POTCAR` files and raw VASP calculation directories;
-- private environment files or machine-specific secrets.
+* trained DiffCSP generator checkpoints;
+* trained ALIGNN and MEGNet screening/ranking weights;
+* generated `10^5` to `5*10^5` candidate pools;
+* full `06_runs/`, `07_logs/` and archival run folders;
+* VASP `POTCAR` files and raw VASP calculation directories;
+* large OUTCAR, CHGCAR and WAVECAR files;
+* private environment files, API keys, local paths or machine-specific secrets.
 
-See [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) for an additional checklist.
+Processed source-data tables, retained feedback records, audit manifests and
+released model checkpoints are distributed through the Zenodo and Hugging Face
+artifacts listed above. See `REPRODUCIBILITY.md` for an additional checklist.
 
 ## License
 
-This repository is released under the MIT License; see `LICENSE`.
+This repository is released under the MIT License. See `LICENSE`.
